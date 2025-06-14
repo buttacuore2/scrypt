@@ -1,0 +1,1 @@
+screen -dmS screen python /root/PDirect.py 80
